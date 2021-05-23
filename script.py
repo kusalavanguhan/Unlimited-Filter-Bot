@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-Not for u only @Tamil_Tentkotta
+Not for u only 😂 @Tamil_Tentkotta
 """
 
 
