@@ -3,11 +3,6 @@ class Script(object):
     START_MSG = """<b>Hy {},
 
 Not for u only @Tamil_Tentkotta
-[
-                    InlineKeyboardButton("Channel", url="https://t.me/Tamil_Tentkotta"),
-                    InlineKeyboardButton("Group", url="https://t.me/TamilTentkotta_Chat")
-                ]
-            ]
 """
 
 
